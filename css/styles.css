@@ -1,3 +1,18 @@
 .h1 {
   text-align: center;
+  color: rgb(4, 179, 19);
+}
+.background {
+  background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif');
+  background-size: cover;
+  
+  
+  
+  height: 100vh;
+  padding:0;
+  margin:0;
+}
+.color {
+  color: rgb(255, 0, 0);
+  text-shadow: 1px 1px #000000;
 }
