@@ -25,6 +25,8 @@
 				  1px 1px 0 #000,
 				 1px -1px 0 #000;
 				  -1px -1px 0 #000
+  border: 10px solid #23d00d;
+          
 }
 .color {
   color: rgb(239, 11, 11);
@@ -33,4 +35,13 @@
 				  1px 1px 0 #000,
 				 1px -1px 0 #000;
 				  -1px -1px 0 #000
+}
+
+.img[src*="Mike.jpg.jpeg"] {
+  background-image: url("Mike.jpg.jpeg");
+  border: 10px solid #23d00d;
+  border-radius: 75%;
+  padding: 5px;
+  width: 350px;
+  bor
 }
