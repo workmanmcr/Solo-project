@@ -3,7 +3,7 @@
   color: rgb(255, 255, 255);
 }
 .background {
-  background-image: url('https://upload.wikimedia.org/wikipedia/commons/c/cc/Digital_rain_animation_medium_letters_shine.gif');
+  background-image: url('https://cdn.wallpapersafari.com/85/38/hCjxDm.jpg');
   background-size: cover;
   
   
@@ -17,10 +17,10 @@
   text-shadow: 1px 1px #000000;
 }
 .name {
-  color: rgb(240, 233, 7);
+  color: rgb(12, 237, 23);
 }
 .font {
   font-size: x-large;
-  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-family:
   src: url(sansation_light.woff);
 }
