@@ -12,15 +12,25 @@
   padding:0;
   margin:0;
 }
-.color {
-  color: rgb(255, 255, 255);
-  text-shadow: 1px 1px #000000;
-}
 .name {
   color: rgb(12, 237, 23);
 }
-.font {
-  font-size: x-large;
-  font-family:
-  src: url(sansation_light.woff);
+
+.column {
+  width: 33%;
+  float: right;
+  color: rgb(239, 11, 11);
+	font-size: 25px;
+	text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000;
+				  -1px -1px 0 #000
+}
+.color {
+  color: rgb(239, 11, 11);
+	font-size: 25px;
+	text-shadow: -1px 1px 0 #000,
+				  1px 1px 0 #000,
+				 1px -1px 0 #000;
+				  -1px -1px 0 #000
 }
