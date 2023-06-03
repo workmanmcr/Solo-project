@@ -23,6 +23,8 @@ to better understand his background, abilities, hobbies and drive.}_
 
 * _No known bugs_
 
+https://workmanmcr.github.io/Solo-project/
+
 ## License
 
 
